@@ -1,27 +1,4 @@
-# Creating an HTML version of the README and saving it to /mnt/data/README.html
-html_content = """<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width,initial-scale=1"/>
-<title>GTSRB Traffic Sign Classification using CNN - README</title>
-<style>
-  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; line-height:1.6; color:#111; padding:24px; max-width:900px; margin:0 auto; background:#f7f9fb; }
-  header { background:linear-gradient(90deg,#0f172a,#0ea5a0); color:white; padding:24px; border-radius:12px; margin-bottom:20px; box-shadow:0 6px 18px rgba(12,12,15,0.08); }
-  h1 { margin:0; font-size:1.6rem; }
-  .badge { display:inline-block; margin-top:8px; padding:6px 10px; background:rgba(255,255,255,0.12); border-radius:999px; font-size:0.9rem; }
-  section { background:white; padding:18px; border-radius:10px; box-shadow:0 4px 12px rgba(12,12,15,0.04); margin-bottom:16px; }
-  pre { background:#0b0f1a; color:#e6eef8; padding:12px; border-radius:8px; overflow:auto; }
-  code { background:#eef2f7; padding:2px 6px; border-radius:6px; font-family:monospace; }
-  table { border-collapse:collapse; width:100%; }
-  table td, table th { border:1px solid #eef0f3; padding:8px; text-align:left; }
-  .muted { color:#556; font-size:0.95rem; }
-  .center { text-align:center; }
-  a.button { display:inline-block; margin-top:8px; padding:8px 12px; background:#0ea5a0; color:white; border-radius:8px; text-decoration:none; }
-  footer { text-align:center; color:#666; font-size:0.95rem; margin-top:18px; }
-</style>
-</head>
-<body>
+
 
 <header>
   <h1>🚦 GTSRB Traffic Sign Classification using CNN</h1>
