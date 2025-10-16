@@ -16,7 +16,6 @@
 GTSRB-CNN/
 │
 ├── GTSRB.py              # Main training and evaluation script
-├── gtsrb_cnn.keras       # Saved model (after training)
 ├── README.md             # Project documentation
 └── data/                 # Dataset folder (not included due to size)
   </pre>
@@ -112,7 +111,7 @@ data/Test.csv</pre>
 </section>
 
 <section class="center">
-  <a class="button" href="https://www.linkedin.com" target="_blank">Connect on LinkedIn</a>
+  <a class="button" href="https://www.linkedin.com/in/fares-sultan-2ba92b324/" target="_blank">Connect on LinkedIn</a>
 </section>
 
 <footer>
@@ -122,10 +121,4 @@ data/Test.csv</pre>
 </body>
 </html>
 """
-
-file_path = "/mnt/data/README.html"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(html_content)
-
-file_path
 
