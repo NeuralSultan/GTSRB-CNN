@@ -12,7 +12,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 import cv2
 
 # 2) general config
-data_dir   = r"F:\ML Intern Elevvo\CSV\GTSRB"  
+data_dir   = r"put ur path here"  
 IMG_SIZE   = (64, 64)
 BATCH_SIZE = 64
 SEED       = 1337
