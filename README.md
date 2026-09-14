@@ -57,13 +57,12 @@ Python · TensorFlow/Keras · OpenCV · Pandas · NumPy · Scikit-learn · Matpl
 ## Repo Structure
 
 ```
-├── GTSRB.py
+├── GTSRB.py     # full training & evaluation pipeline
 ├── README.md
-├── opencv_predictions.png                      # full training & evaluation pipeline
+├── opencv_predictions.png
+├── requirements.txt                     
 ├── tf_predictions.png
-├── training_curves.png
-├── requirements.txt
-└── 
+└── training_curves.png 
 ```
 
 ## Run it yourself
