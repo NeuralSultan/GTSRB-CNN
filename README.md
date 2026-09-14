@@ -42,7 +42,7 @@ Same model, but images preprocessed via OpenCV (`cv2.imread` → BGR-to-RGB → 
 
 Training vs. validation accuracy/loss tracked across epochs, with early stopping restoring the best-performing weights.
 
-![training_curves](training_curvess.png)
+![Training Curves](training_curvess.png)
 
 ## key Takeaways
 
